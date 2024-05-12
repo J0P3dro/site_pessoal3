@@ -1,0 +1,36 @@
+nav {
+    background-color: #5AC073;   
+    text-align: center;
+  }
+  
+  nav ul{
+    margin: 0;
+    padding: 25px;
+  }
+  
+  nav ul li{
+    display: inline;
+    margin: 50px;
+  }
+  
+  nav ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #347142;
+  }
+
+  @media only screen and (max-width: 740px) {
+    nav ul li{
+        display: inline-block;
+        margin: 50px;
+        padding: 5px;
+    }
+
+    nav ul {
+      padding: 0;
+  }
+
+  }
+
+  

@@ -1,0 +1,28 @@
+header {
+  padding: 50px;
+  position: relative;
+}
+
+header img {
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  border: 3px solid #000;
+  position: absolute;
+  top: 15px;
+  left: 10px;
+}
+  header, footer {
+    background-color: #5F966C;
+    text-align: center;
+    color: white;
+  }
+ 
+  @media only screen and (max-width: 740px) {
+    header img {
+        position: static;
+        float: left;
+        margin-right: 20px;
+        margin-bottom: 20px;
+    }
+}

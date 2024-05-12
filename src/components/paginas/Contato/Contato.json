@@ -1,0 +1,32 @@
+[
+    {
+        "label": "Nome",
+        "type": "text",
+        "name": "input-nome",
+        "id": "input-nome",
+        "required": true,
+        "minLength": 2
+    },
+    {
+        "label": "Telefone",
+        "type": "tel",
+        "name": "input-tel",
+        "id": "input-tel",
+        "placeholder": "(99) 99999-9999"
+    },
+    {
+        "label": "E-mail",
+        "type": "email",
+        "name": "input-email",
+        "id": "input-email",
+        "required": true
+    },
+    {
+        "label": "Mensagem",
+        "type": "textarea",
+        "name": "input-mensagem",
+        "id": "input-mensagem",
+        "rows": 10,
+        "cols": 30
+    }
+]
