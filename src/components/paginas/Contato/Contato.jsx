@@ -15,6 +15,21 @@ function Contato() {
         window.open(linkWhatsapp);
     }
 
+    function mascarTelefone(event) {
+        const texto =event.target.value;
+        const textoApenasNumeros = texto.replace(/\()/g, '').substring(0, 11);
+
+        let telefoneFormatado = textoApenasNumeros.replace(/^(\d{2})(\d{5})(\d{4})/, '($1) $2-$3');
+
+        if (textoApenasNumeros.legth < 11) {
+            telefoneFormatado = textoApenasNumeros.replace(/^(\d{2})(\d{5})(\d{4})/, '($1) $2-$3');
+        }
+
+        setTelefone(telefoneFormatado);
+
+
+    }
+
     return (
         <>
             <form onSubmit={enviarFormulario}>
