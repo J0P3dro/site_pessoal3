@@ -1,0 +1,41 @@
+{
+    "resume": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet erat diam. Morbi euismod lacus ac malesuada vulputate. Ut scelerisque mattis varius. In sed ultrices nulla. Praesent sit amet ex tincidunt, luctus lorem ut, egestas est. Vestibulum ac viverra eros. Aenean ullamcorper posuere egestas.",
+    "experienciaAcademica": [
+        {
+            "titulo": " Finalizado o ensino médio no 3° Colégio da Polícia Militar - Tenente Mário Lima",
+            "descriacao": " Finalizado o ensino médio no 3° Colégio da Polícia Militar - Tenente Mário Lima",
+            "data": "2022"
+        },
+        {
+            "titulo": " Finalizado o ensino médio no 3° Colégio da Polícia Militar - Tenente Mário Lima",
+            "descriacao": " Finalizado o ensino médio no 3° Colégio da Polícia Militar - Tenente Mário Lima",
+            "data": "2022"
+        },
+        {
+            "titulo": " Finalizado o ensino médio no 3° Colégio da Polícia Militar - Tenente Mário Lima",
+            "descriacao": " Finalizado o ensino médio no 3° Colégio da Polícia Militar - Tenente Mário Lima",
+            "data": "2022"
+        }
+
+    ],
+    "experienciaProfissional" : [
+        {
+            "titulo": "Help Desk da empresa ALPHA SYSTEMAS",
+            "descriacao": "Help Desk da empresa ALPHA SYSTEMAS",
+            "dataInicial": "2023",
+            "dataFinal": "2024"
+        },
+        {
+            "titulo": "Help Desk da empresa ALPHA SYSTEMAS",
+            "descriacao": "Help Desk da empresa ALPHA SYSTEMAS",
+            "dataInicial": "2023",
+            "dataFinal": "2024"
+        },
+        {
+            "titulo": "Help Desk da empresa ALPHA SYSTEMAS",
+            "descriacao": "Help Desk da empresa ALPHA SYSTEMAS",
+            "dataInicial": "2023",
+            "dataFinal": "2024"
+        }
+    ]
+}
