@@ -1,10 +1,7 @@
 {
   "dependencies": {
     "@vitejs/plugin-react": "^4.2.1",
-<<<<<<< HEAD
     "axios": "^1.7.2",
-=======
->>>>>>> 36467587049faf6829b28530ddfb4c88d5e35cca
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-router-dom": "^6.23.1"
